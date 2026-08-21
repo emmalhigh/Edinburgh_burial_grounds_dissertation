@@ -1,6 +1,6 @@
 This folder contains all QGIS project files created/used for conducting vascular ground-flora field surveys, and for calculating burial ground area and percentage canopy cover.
 
-'Base Maps' -> Ordnance Survey VectorMap Local Rasters as the basemap accessed through EDINA Digimap
+Ordnance Survey VectorMap Local Rasters were used as the basemap accessed through EDINA Digimap. This is not included due to copyright licenses
 
 'Sampling Grid Cells' -> Layers separated by burial ground for the grid cells used to navigate to the 15 quadrat sampling points during the first round surveys (subfolder) and second round surveys (subfolder). 
 
